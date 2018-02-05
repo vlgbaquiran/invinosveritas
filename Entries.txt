@@ -1,0 +1,53 @@
+Th 02/01/2018 08:29:24.75 
+Started web development.
+
+Th 02/01/2018 08:35:04.79 
+Thought of a domain name.
+
+Th 02/01/2018 09:09:05.80 
+Created localhost using xampp.
+
+Th 02/01/2018 09:11:44.85 
+Installed wordpress locally.
+
+Th 02/01/2018 09:15:14.86
+Configured phpstorm ide.
+
+Th 02/01/2018 09:15:14.86
+Installed plugins.
+
+Th 02/01/2018 10:05:13.33
+Installed DIVI theme.
+
+Th 02/01/2018 10:25:15.55
+Configured localhost to show editor tools for wordpress.
+
+Fri 02/02/2018 08:05:45.65
+Created child theme.
+
+Fri 02/02/2018 10:01:43.22
+Removed projects from wordpress.
+
+Mon 02/05/2018 08:41:38.54 
+Added bxslider to child theme.
+
+Mon 02/05/2018 12:41:18.24 
+Added bootstrat to child theme.
+
+Mon 02/05/2018 12:42:37.24 
+Updated Divi theme to 3.0.100.
+
+Mon 02/05/2018 12:43:15.54 
+Edited theme and fonts.
+
+Mon 02/05/2018 12:44:18.76 
+Started initial homepage layout.
+
+Mon 02/05/2018 12:44:19.79 
+Composing about me.
+
+Mon 02/05/2018 01:00:20.99 
+Started blog entries- need to work on the copy though
+
+Mon 02/05/2018 01:10:02.70 
+Added timestamp on entries.

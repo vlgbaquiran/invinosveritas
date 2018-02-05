@@ -1,0 +1,4 @@
+Th 02/01/2018 12:29:04.85 | Started website development, finally found my motivation to start my online portfolio. Got some inspiration from my mentor and some encouragement from my bosses.
+
+Mon 02/05/2018 12:29:04.85 | Installed some Jquery libraries today and further exploration on how Git works. Also learned some nifty stuff for notepad++, adding timestamps. Started initial design, made banner image on photoshop, edited theme fonts and updated the child theme to contain the Jquery libraries. (general thoughts) 
+

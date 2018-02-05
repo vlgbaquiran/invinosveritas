@@ -1,0 +1,3 @@
+February 01, 2018 - Started local host and website initialization
+February 02, 2018 - Installed wordpress, some plugins and configured git.
+February 05, 2018 - Started initial design and installed needed jquery libraries.
