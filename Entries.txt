@@ -1,1 +1,13 @@
 Started web development.
+Thought of a domain name.
+Created localhost using xampp.
+Installed wordpress locally.
+Configured phpstorm ide.
+Installed plugins.
+Installed DIVI theme.
+Configured localhost to show editor tools for wordpress.
+Created child theme.
+Removed projects from wordpress.
+Added bxslider to child theme.
+Added bootstrat to child theme.
+Updated Divi theme to 3.0.100.
