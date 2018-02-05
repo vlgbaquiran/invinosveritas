@@ -51,3 +51,9 @@ Started blog entries- need to work on the copy though
 
 Mon 02/05/2018 01:10:02.70 
 Added timestamp on entries.
+
+Mon 02/05/2018 14:13:22.08
+Edited my image and added some text placeholder.
+
+Mon 02/05/2018 15:46:15.11
+Found a nifty css called hover.css will incorporate it on my design.

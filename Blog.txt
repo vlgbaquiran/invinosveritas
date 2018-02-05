@@ -2,3 +2,7 @@ Th 02/01/2018 12:29:04.85 | Started website development, finally found my motiva
 
 Mon 02/05/2018 12:29:04.85 | Installed some Jquery libraries today and further exploration on how Git works. Also learned some nifty stuff for notepad++, adding timestamps. Started initial design, made banner image on photoshop, edited theme fonts and updated the child theme to contain the Jquery libraries. (general thoughts) 
 
+About me: As the latin saying goes In vino veritas In wine, truth no this is not a winery website lol
+Don't let the phrase Invinoveritas fool you, this is not a ecommerce website where I sell wines and liquors. I'am Vino Baquiran and this is my website where I will be sharing my portfolio, blog, ideas and truth.
+
+Do i need to install a plugin to handle structure editing just like aceide? 
