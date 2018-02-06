@@ -57,3 +57,10 @@ Edited my image and added some text placeholder.
 
 Mon 02/05/2018 15:46:15.11
 Found a nifty css called hover.css will incorporate it on my design.
+
+Tue 02/06/2018 09:23:10.10
+Revised background art, picture and logo
+
+Tue 02/06/2018 15:23:49.11
+Changed execution time on php.ini
+
