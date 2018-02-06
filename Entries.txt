@@ -64,3 +64,5 @@ Revised background art, picture and logo
 Tue 02/06/2018 15:23:49.11
 Changed execution time on php.ini
 
+Tue 02/06/2018 15:57:36.45
+Updated wordpress to 4.9.3
