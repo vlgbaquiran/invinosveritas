@@ -75,3 +75,18 @@ Reverted back projects post.
 
 Wed 02/07/2018 12:09:05.04
 Installed modifier panel plugin.
+
+Wed 02/07/2018 12:20:13.42
+Succesfully enqueued bootsrap on child theme.
+
+Wed 02/07/2018 12:23:50.10
+Succesfully enqueued bxslider on child theme.
+
+Wed 02/07/2018 13:07:20.60
+Succesfully enqueued mouseparallax on child theme.
+
+Wed 02/07/2018 13:40:02.35
+Installed responsive menu plugin.
+
+Wed 02/07/2018 14:38:27.75
+Configured menu.
