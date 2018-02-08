@@ -6,3 +6,5 @@ About me: As the latin saying goes In vino veritas In wine, truth no this is not
 Don't let the phrase Invinoveritas fool you, this is not a ecommerce website where I sell wines and liquors. I'am Vino Baquiran and this is my website where I will be sharing my portfolio, blog, ideas and truth.
 
 Do i need to install a plugin to handle structure editing just like aceide? 
+
+Still havent figured out how to make my smart3d element responsive on portrait devices. opened up some media query tips pertaining to bootstrap tweaking and media queries for landscape and portrait. Will have to experiment to find what will work.

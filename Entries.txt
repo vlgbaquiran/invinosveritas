@@ -90,3 +90,9 @@ Installed responsive menu plugin.
 
 Wed 02/07/2018 14:38:27.75
 Configured menu.
+
+Thu 02/08/2018 10:05:25.90
+Installed Smart3d Jquery.
+
+Thu 02/08/2018 10:13:40.81
+Removed malicious files that is hijacking my functions.php
