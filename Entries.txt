@@ -32,7 +32,7 @@ Mon 02/05/2018 08:41:38.54
 Added bxslider to child theme.
 
 Mon 02/05/2018 12:41:18.24 
-Added bootstrat to child theme.
+Added bootstrap to child theme.
 
 Mon 02/05/2018 12:42:37.24 
 Updated Divi theme to 3.0.100.
@@ -96,3 +96,12 @@ Installed Smart3d Jquery.
 
 Thu 02/08/2018 10:13:40.81
 Removed malicious files that is hijacking my functions.php
+
+Fri 02/09/2018 9:15:22.71
+Succesfully enqueued hover.css on functions.php
+
+Fri 02/09/2018 10:05:10.33
+Initial design of homepage middle section.
+
+Fri 02/09/2018 15:11:23.83
+Redesign of middle section.
