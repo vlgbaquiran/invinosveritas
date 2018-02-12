@@ -105,3 +105,9 @@ Initial design of homepage middle section.
 
 Fri 02/09/2018 15:11:23.83
 Redesign of middle section.
+
+Fri 02/09/2018 17:12:20.80
+Started testing exporting my localhost to my domain.
+
+Fri 02/10/2018 13:14:25.12
+Got permission from Jean to use his arts (Deviantart Author).
