@@ -111,3 +111,12 @@ Started testing exporting my localhost to my domain.
 
 Fri 02/10/2018 13:14:25.12
 Got permission from Jean to use his arts (Deviantart Author).
+
+Tue 02/13/2018 14:48:26.89
+Updated DIVI to 3.0.101
+
+Tue 02/13/2018 14:52:24.48
+Capitalized the first letter of the theme mezmerice.
+
+Tue 02/13/2018 15:41:18.95
+Succesfully enqueued colorbox on child theme.
