@@ -138,3 +138,12 @@ Transfered live to localhost before continuing development.
 
 Wed 02/14/2018 14:45:37.10
 Created draft posts.
+
+Wed 02/14/2018 15:59:58.56
+Fixed horizontal scroll issue because of bootstrap .row having negative margins.
+
+Wed 02/14/2018 16:21:06.21
+Enqueued new file called mediaqueries.css
+
+Wed 02/14/2018 16:29:33.79
+Edited homepage-header and removed margin elements and used bootstraps instead.
