@@ -120,3 +120,15 @@ Capitalized the first letter of the theme mezmerice.
 
 Tue 02/13/2018 15:41:18.95
 Succesfully enqueued colorbox on child theme.
+
+Wed 02/14/2018 10:28:42.74
+Moved css on homepage-header to invinosveritas.css
+
+Wed 02/14/2018 10:32:20.15
+Cleaned homepage-header.php
+
+Wed 02/14/2018 10:52:46.80
+Moved css on homepage-middle to invinosveritas.css
+
+Wed 02/14/2018 11:57:58.60
+Cleaned homepage-middle.php
