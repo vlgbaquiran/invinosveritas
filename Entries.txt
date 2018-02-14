@@ -132,3 +132,9 @@ Moved css on homepage-middle to invinosveritas.css
 
 Wed 02/14/2018 11:57:58.60
 Cleaned homepage-middle.php
+
+Wed 02/14/2018 14:32:41.31
+Transfered live to localhost before continuing development.
+
+Wed 02/14/2018 14:45:37.10
+Created draft posts.
