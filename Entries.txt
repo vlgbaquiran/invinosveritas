@@ -147,3 +147,15 @@ Enqueued new file called mediaqueries.css
 
 Wed 02/14/2018 16:29:33.79
 Edited homepage-header and removed margin elements and used bootstraps instead.
+
+Thu 02/15/2018 10:57:47.59
+Changed folder names.
+
+Thu 02/15/2018 1:55:12.13
+Added post placeholders.
+
+Thu 02/15/2018 3:15:01.12
+Added blog slider element.
+
+Thu 02/15/2018 17:03:00.49 
+Fixed header-section until 375px 
